@@ -56,6 +56,7 @@ python manage.py runserver
 python manage.py startapp chat
 ```
 And add your app to the installed apps in settings.py.
+![Screenshot 2022-10-09 103619](https://user-images.githubusercontent.com/102956488/194739375-b53824e4-d71b-4dc5-ad32-2bbd20535a9f.png)
 
 **Step 9:** Clone the files in your chat app 
 * chat/urls.py: This will route the Django application to different views in the app.    
