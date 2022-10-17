@@ -7,7 +7,7 @@
 * Django Migrations
 * Django Channel
 
-# Steps for creating the chat application:
+# Steps for creating the chat application:👇🏼
 **Step 1:** [Install](https://www.geeksforgeeks.org/django-introduction-and-installation/#:~:text=activate-,Install%20Django,-%2D%20Install%20django) and setup Django
 
 **Step 2:** Create your [virtual environment](https://www.geeksforgeeks.org/python-virtual-environment/).
