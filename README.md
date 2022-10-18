@@ -97,6 +97,6 @@ Here the router routes the WebSocket URL to a variable in the chat app that is �
 
 **Step 16:** We have set the parameter LOGIN_REDIRECT_URL = “chat-page”, this is the name of our landing page URL. This means that whenever the user gets logged in, he will be sent to the chatPage as a verified user and he is eligible to chat through. Now similarly we need to set up the LOGOUT_REDIRECT_URL for the site. 
 
-## Finally Deployment
+## Finally Deployment time :
 Now, run your server and move to the site and start two different browsers to log into two other users. It is because if you have logged in with first user credentials, the login details are stored in the cookies, then if you log in from second user details in the same browser even with different tabs, So, you cannot chat with two other users in the same browser, that’s why to use two different browsers. 
 
